@@ -35,31 +35,30 @@ header p {
     text-align: center;
 }
 
-/* Section styles */
+/* Section styles ,  Prevent wrapping to new line, Allow horizontal scroll if needed  */
 section {
     display: flex;
     justify-content: space-between;
     margin-bottom: 5rem;
-    flex-wrap: nowrap; /* Prevent wrapping to new line */
-    overflow-x: auto; /* Allow horizontal scroll if needed */
+    flex-wrap: nowrap; 
+    overflow-x: auto; 
 }
-
-/* Article styles within the section */
+/* Article styles within the section, Add margin between articles for spacing */
 section article {
     border: 1px solid black;
     box-shadow: 0 2px 14px grey;
     padding: 2.5%;
     width: 20%;
     box-sizing: border-box;
-    margin-right: 10px; /* Add margin between articles for spacing */
+    margin-right: 10px; 
 }
 
 /* Image styles within articles */
 article img {
     display: block;
     height: 150px;
-    width: 100%; /* Make images fill the container */
-    margin: 0 auto; /* Center images within articles */
+    width: 100%; 
+    margin: 0 auto; 
 }
 
 /* Paragraph styles within section */
