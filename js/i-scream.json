@@ -39,25 +39,25 @@
     },
 
     {
-      "name": "Stupendous Strawberry",
-      "calories": 325,
-      "type": "frozen yogurt",
+      "name": "Matcha Madness",
+      "calories": 320,
+      "type": "green tea",
       "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+        "matcha powder", 
+        "sweet red bean paste", 
+        "mochi bites"
       ],
       "image": "ice-cream-xtra1.svg"
     },
 
     {
-      "name": "Stupendous Strawberry",
-      "calories": 325,
-      "type": "frozen yogurt",
-      "ingredients": [
-        "wild strawberries",
-        "milk chocolate dip",
-        "candy sprinkles"
+      "name": "Lemon Lime Delight",
+      "calories": 280,
+      "type": "pistachio",
+      "ingredients":  [
+        "fresh lemon juice", 
+        "lime zest", 
+        "pineapple chunks"
       ],
       "image": "ice-cream-xtra2.svg"
     }
